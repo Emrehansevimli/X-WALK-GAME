@@ -40,6 +40,10 @@
 			"SupportedTargetPlatforms": [
 				"Android"
 			]
+		},
+		{
+			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
